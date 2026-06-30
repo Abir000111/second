@@ -1,0 +1,10 @@
+git init 
+ls
+cd 
+mkdir 
+rmdir 
+touch
+cd ../
+checkout 
+git statuse
+git log
